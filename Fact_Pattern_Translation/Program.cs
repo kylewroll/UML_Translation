@@ -43,6 +43,7 @@ namespace Fact_Pattern_Translation
                 //Incrementation to prevent the loop from infitely running, definitely didn't forget this on my first test run...
                 place++;
             }
+            //Allows user to view window without it immediately closing
             Console.ReadKey();
         }
     }
