@@ -20,7 +20,7 @@ namespace Fact_Pattern_Translation
         TRIANGLE
     }
 
-    class Program
+    class main
     {
         static void Main(string[] args)
         {

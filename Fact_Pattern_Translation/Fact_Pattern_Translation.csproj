@@ -45,7 +45,7 @@
   <ItemGroup>
     <Compile Include="I_Geometric_Shape.cs" />
     <Compile Include="Shape_Factory.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="main.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
