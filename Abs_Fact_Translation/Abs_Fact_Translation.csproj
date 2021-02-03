@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Phone_Type_Checker.cs" />
     <Compile Include="IDumb.cs" />
     <Compile Include="ISmart.cs" />
     <Compile Include="main.cs" />
