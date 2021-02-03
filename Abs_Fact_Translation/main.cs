@@ -36,7 +36,7 @@ namespace Abs_Fact_Translation
                 place++;
             }
 
-            Console.ReadKey();
+            Console.ReadKey(); //Allows reader to view window without it immediately closing
         }
     }
 }
